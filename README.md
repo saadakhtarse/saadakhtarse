@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saadakhtarse
 - 👀 I’m interested in DataScience and Software Engineering 
-- 🌱 I’m currently learning Software Engineering at UMT
-- 💞️ I’m looking for DataScience related internship 
+- 🌱 I’m recently grajuated from UMT Lahore, Pakistan
+- 💞️ I’m looking for DataScience and DataAnalytic related internships
 - 📫 contact me on saad.akhtar.se@gmail.com 
 
 <!---
