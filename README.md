@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saadakhtarse
 - 👀 I’m interested in DataScience and Software Engineering 
-- 🌱 I’m recently grajuated from UMT Lahore, Pakistan.
-- 💞️ I’m interested in DataScience and DataAnalytic.
+- 🌱 I’m recently grajuated from UMT Lahore, Pakistan
+- 💞️ I’m interested in DataScience and DataAnalytic
 - 📫 contact me on saad.akhtar.se@gmail.com 
 
 <!---
